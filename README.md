@@ -10,3 +10,4 @@ Instructions
 Make sure the fix frame is set to 'my_frame'
 
 
+![](RRT_Rviz.png)
